@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Release\) contiene archivos compartidos de otro proyecto (Ejercicio 14.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  stdafx.cpp
+  Ejercicio 16.cpp
+c:\users\ulp\source\repos\practico 2\ejercicio 14\ejercicio 16.cpp(24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+LINK : fatal error LNK1257: error de generación de código

@@ -1,0 +1,7 @@
+﻿  Ejercicio 11.cpp
+c:\users\ulp\source\repos\intento01\ejercicio 11\ejercicio 11.cpp(10): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+c:\users\ulp\source\repos\intento01\ejercicio 11\ejercicio 11.cpp(10): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Generando código
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Ejercicio 11.vcxproj -> C:\Users\Ulp\source\repos\Intento01\Release\Ejercicio 11.exe

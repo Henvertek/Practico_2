@@ -1,0 +1,12 @@
+﻿  Ejercicio 29.cpp
+c:\users\ulp\source\repos\practico 2\ejercicio 29\ejercicio 29.cpp(13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\ulp\source\repos\practico 2\ejercicio 29\ejercicio 29.cpp(21): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+c:\users\ulp\source\repos\practico 2\ejercicio 29\ejercicio 29.cpp(21): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\ulp\source\repos\practico 2\ejercicio 29\ejercicio 29.cpp(34): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\ulp\source\repos\practico 2\ejercicio 29\ejercicio 29.cpp(46): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Ejercicio 29.vcxproj -> C:\Users\Ulp\source\repos\Practico 2\Release\Ejercicio 29.exe
